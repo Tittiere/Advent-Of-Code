@@ -1,3 +1,4 @@
+# solution 878
 import os
 # this is required because of a bug on my windows pc sry
 # (it sets current working directory to file directory)
